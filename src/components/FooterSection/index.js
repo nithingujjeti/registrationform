@@ -1,6 +1,4 @@
 // src/components/Footer.js
-import React from 'react'
-import {AiFillInstagram} from 'react'
 import './index.css' // Import your custom CSS for the footer
 
 function FooterSection() {
