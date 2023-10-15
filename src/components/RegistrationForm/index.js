@@ -164,7 +164,7 @@ class RegistrationForm extends Component {
 
     return (
       <div className="registration-form-container">
-        <h1 className="form-title">Registration</h1>
+        <h1 className="form-title">Contact Us</h1>
         <div className="view-container">
           {isFormSubmitted
             ? this.renderSubmissionSuccessView()

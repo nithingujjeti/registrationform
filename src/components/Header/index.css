@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  min-height: 10vh;
+}
+
+.logo {
+  font-size: 20px;
+  color: #5e32a1;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.nav-links li {
+  font-size: 18px;
+}
+
+.nav-links a {
+  text-decoration: none;
+}
+
+.name {
+  font-size: 18px;
+  color: black;
+  margin-right: 10px;
+  font-weight: 600;
+  font-family: 'Gill Sans';
+}
